@@ -1,0 +1,21 @@
+{
+  "name": "getting-started-with-nuxtjs-and-plotly",
+  "version": "1.0.0",
+  "description": "To accompany VueSchool.io article",
+  "author": "limjix",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.0.0",
+    "plotly.js-dist": "^2.2.1",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "@nuxtjs/vuetify": "^1.0.0"
+  }
+}
